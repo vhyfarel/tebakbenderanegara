@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tebak bendera negara</string>
+    <string name="title_filipin"></string>
+    <string name="title_indonesia"></string>
+    <string name="title_japan"></string>
+    <string name="title_thailand"></string>
+</resources>
